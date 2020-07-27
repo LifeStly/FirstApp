@@ -45,4 +45,6 @@
     <string name="Nickname_text">That.</string>
     <string name="Age_text"> 20 Year.</string>
     <string name="University_text">Rajamangala University of Technology Isan.</string>
+    <string name="todo">TODO</string>
+    <string name="photo" />
 </resources>
