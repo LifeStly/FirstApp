@@ -46,8 +46,9 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
             android:text="@string/H_Name_text"
-            android:textColor="#050404"
+            android:textColor="#009688"
             android:textSize="@dimen/H_Text_Size"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
@@ -57,8 +58,9 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:text="@string/H_Nickname_text"
-            android:textColor="#0E0707"
+            android:textColor="#009688"
             android:textSize="@dimen/H_Text_Size"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="@+id/Hname"
             app:layout_constraintTop_toBottomOf="@+id/Hname" />
 
@@ -68,8 +70,9 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:text="@string/H_Age_text"
-            android:textColor="#050404"
+            android:textColor="#009688"
             android:textSize="@dimen/H_Text_Size"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="@+id/Hname"
             app:layout_constraintTop_toBottomOf="@+id/Hnickname" />
 
@@ -79,8 +82,9 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:text="@string/H_University_text"
-            android:textColor="#070505"
+            android:textColor="#009688"
             android:textSize="@dimen/H_Text_Size"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="@+id/Hname"
             app:layout_constraintTop_toBottomOf="@+id/Hage" />
 
