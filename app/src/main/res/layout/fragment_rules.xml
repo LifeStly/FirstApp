@@ -134,5 +134,36 @@
             app:layout_constraintBaseline_toBaselineOf="@+id/Hphone"
             app:layout_constraintStart_toEndOf="@+id/Hphone" />
 
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="32dp"
+            android:src="@drawable/mail"
+            app:layout_constraintStart_toStartOf="@+id/imageView7"
+            app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+        <TextView
+            android:id="@+id/HEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/H_email"
+            android:textColor="#F44336"
+            android:textSize="@dimen/H_Text_Size"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView9"
+            tools:layout_editor_absoluteX="117dp" />
+
+        <TextView
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="@string/email"
+            android:textColor="#000000"
+            android:textSize="@dimen/Text_Size"
+            app:layout_constraintBaseline_toBaselineOf="@+id/HEmail"
+            app:layout_constraintStart_toEndOf="@+id/HEmail" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

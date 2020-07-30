@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d0d329-6a9b-4212-b723-6553fdcb8640" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mail.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_rules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
@@ -149,10 +150,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="538" y="176" key="AndroidCreateXmlResourceDialog/0.0.1360.728@0.0.1360.728" timestamp="1595914267001" />
-    <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1596124729146">
+    <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1596126374592">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1596124729146" />
+    <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1596126374592" />
     <state x="181" y="6" key="SettingsEditor" timestamp="1595669128822">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
