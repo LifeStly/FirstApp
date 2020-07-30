@@ -48,4 +48,10 @@
     <string name="todo">TODO</string>
     <string name="photo" />
     <string name="conTact">Contact</string>
+    <string name="H_facebook">Facebook :</string>
+    <string name="facebook">Tuchton Tuch.</string>
+    <string name="H_Line">Line :</string>
+    <string name="line">ttucht.</string>
+    <string name="H_phone">Phone :</string>
+    <string name="phone">0610507686</string>
 </resources>
